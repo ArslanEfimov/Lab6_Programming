@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organizations>
+    <organization>
+        <id>9</id>
+        <name>1</name>
+        <coordinates>
+            <x>1.0</x>
+            <y>1</y>
+        </coordinates>
+        <annualTurnover>1.0</annualTurnover>
+        <fullName>1</fullName>
+        <type>COMMERCIAL</type>
+        <officialAddress>
+            <street>1</street>
+        </officialAddress>
+        <creationDate>2023-05-27</creationDate>
+    </organization>
+    <organization>
+        <id>13</id>
+        <name>mkeldmfekr</name>
+        <coordinates>
+            <x>1.0</x>
+            <y>1</y>
+        </coordinates>
+        <annualTurnover>1.0</annualTurnover>
+        <fullName>sdfghjk</fullName>
+        <type>COMMERCIAL</type>
+        <officialAddress>
+            <street>ghjk</street>
+        </officialAddress>
+        <creationDate>2023-05-27</creationDate>
+    </organization>
+    <organization>
+        <id>11</id>
+        <name>dfghjk</name>
+        <coordinates>
+            <x>1.0</x>
+            <y>1</y>
+        </coordinates>
+        <annualTurnover>1.0</annualTurnover>
+        <type>COMMERCIAL</type>
+        <officialAddress>
+            <street>ghjkl;</street>
+        </officialAddress>
+        <creationDate>2023-05-27</creationDate>
+    </organization>
+</organizations>
